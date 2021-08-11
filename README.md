@@ -9,3 +9,8 @@ Table should be in the below form:
 4. Salary long
 5. Joninig_Date datetime
 6. Department nvarchar(20)
+
+
+Toold Required:
+1. Visual Studio
+2. Microsoft SQL Server
