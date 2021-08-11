@@ -1,0 +1,16 @@
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.PresentationLayer.exe.config
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.PresentationLayer.exe
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.PresentationLayer.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.BussinessLogicLayer.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.CustomException.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.Entities.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.DataAccessLayer.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.BussinessLogicLayer.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.CustomException.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.Entities.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\bin\Debug\WorkerManagement.DataAccessLayer.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\obj\Debug\WorkerManagement.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\obj\Debug\WorkerManagement.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\obj\Debug\WorkerManagement.PresentationLayer.csproj.CopyComplete
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\obj\Debug\WorkerManagement.PresentationLayer.exe
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.PresentationLayer\obj\Debug\WorkerManagement.PresentationLayer.pdb

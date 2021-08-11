@@ -1,0 +1,11 @@
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\bin\Debug\WorkerManagement.DataAccessLayer.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\bin\Debug\WorkerManagement.DataAccessLayer.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\bin\Debug\WorkerManagement.CustomException.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\bin\Debug\WorkerManagement.Entities.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\bin\Debug\WorkerManagement.CustomException.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\bin\Debug\WorkerManagement.Entities.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\obj\Debug\WorkerManagement.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\obj\Debug\WorkerManagement.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\obj\Debug\WorkerManagement.DataAccessLayer.csproj.CopyComplete
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\obj\Debug\WorkerManagement.DataAccessLayer.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.DataAccessLayer\obj\Debug\WorkerManagement.DataAccessLayer.pdb

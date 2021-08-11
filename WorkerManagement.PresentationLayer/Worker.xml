@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <WorkerId>1</WorkerId>
+    <FirstName>Jalay</FirstName>
+    <LastName>Rupera</LastName>
+    <Salary>50000</Salary>
+    <JoiningDate>17-08-2019 00:00:00</JoiningDate>
+    <Department>CSE</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>2</WorkerId>
+    <FirstName>James</FirstName>
+    <LastName>Hanukkah</LastName>
+    <Salary>1000</Salary>
+    <JoiningDate>04-05-2015 00:00:00</JoiningDate>
+    <Department>MSE</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>3</WorkerId>
+    <FirstName>Sheldon</FirstName>
+    <LastName>Cooper</LastName>
+    <Salary>2000</Salary>
+    <JoiningDate>06-07-2014 00:00:00</JoiningDate>
+    <Department>CSE</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>4</WorkerId>
+    <FirstName>James</FirstName>
+    <LastName>jambucha</LastName>
+    <Salary>1000</Salary>
+    <JoiningDate>12-06-2019 00:00:00</JoiningDate>
+    <Department>Msc</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>5</WorkerId>
+    <FirstName>Garry</FirstName>
+    <LastName>Kasparov</LastName>
+    <Salary>5000</Salary>
+    <JoiningDate>04-06-2014 00:00:00</JoiningDate>
+    <Department>CSE</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>10</WorkerId>
+    <FirstName>Hello</FirstName>
+    <LastName>Hi</LastName>
+    <Salary>1000</Salary>
+    <JoiningDate>23-02-2020 00:00:00</JoiningDate>
+    <Department>CS</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>11</WorkerId>
+    <FirstName>Hello</FirstName>
+    <LastName>Hi</LastName>
+    <Salary>1000</Salary>
+    <JoiningDate>23-02-2020 00:00:00</JoiningDate>
+    <Department>CS</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>12</WorkerId>
+    <FirstName>Hello</FirstName>
+    <LastName>Hi</LastName>
+    <Salary>1000</Salary>
+    <JoiningDate>23-02-2020 00:00:00</JoiningDate>
+    <Department>CS</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>13</WorkerId>
+    <FirstName>Jalay</FirstName>
+    <LastName>Rupera</LastName>
+    <Salary>13000</Salary>
+    <JoiningDate>13-08-2019 00:00:00</JoiningDate>
+    <Department>CSE</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>14</WorkerId>
+    <FirstName>Jalay</FirstName>
+    <LastName>Rupera</LastName>
+    <Salary>56000</Salary>
+    <JoiningDate>17-08-2019 00:00:00</JoiningDate>
+    <Department>cse</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>16</WorkerId>
+    <FirstName>Jalay</FirstName>
+    <LastName>Rupera</LastName>
+    <Salary>24000</Salary>
+    <JoiningDate>07-08-2019 00:00:00</JoiningDate>
+    <Department>MsC</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>34</WorkerId>
+    <FirstName>Jalay</FirstName>
+    <LastName>Rupera</LastName>
+    <Salary>12234</Salary>
+    <JoiningDate>19-09-2018 00:00:00</JoiningDate>
+    <Department>CSE</Department>
+  </Worker>
+  <Worker>
+    <WorkerId>100</WorkerId>
+    <FirstName>Jalay</FirstName>
+    <LastName>Rupera</LastName>
+    <Salary>34000</Salary>
+    <JoiningDate>09-03-2018 00:00:00</JoiningDate>
+    <Department>Msc</Department>
+  </Worker>
+</ArrayOfWorker>

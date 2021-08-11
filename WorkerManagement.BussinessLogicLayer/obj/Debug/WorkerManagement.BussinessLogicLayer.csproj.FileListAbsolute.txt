@@ -1,0 +1,13 @@
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\bin\Debug\WorkerManagement.BussinessLogicLayer.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\bin\Debug\WorkerManagement.BussinessLogicLayer.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\bin\Debug\WorkerManagement.CustomException.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\bin\Debug\WorkerManagement.DataAccessLayer.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\bin\Debug\WorkerManagement.Entities.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\bin\Debug\WorkerManagement.CustomException.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\bin\Debug\WorkerManagement.DataAccessLayer.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\bin\Debug\WorkerManagement.Entities.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\obj\Debug\WorkerManagement.BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\obj\Debug\WorkerManagement.BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\obj\Debug\WorkerManagement.BussinessLogicLayer.csproj.CopyComplete
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\obj\Debug\WorkerManagement.BussinessLogicLayer.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.BussinessLogicLayer\obj\Debug\WorkerManagement.BussinessLogicLayer.pdb

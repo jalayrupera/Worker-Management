@@ -1,0 +1,6 @@
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.Entities\bin\Debug\WorkerManagement.Entities.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.Entities\bin\Debug\WorkerManagement.Entities.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.Entities\obj\Debug\WorkerManagement.Entities.csproj.AssemblyReference.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.Entities\obj\Debug\WorkerManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.Entities\obj\Debug\WorkerManagement.Entities.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.Entities\obj\Debug\WorkerManagement.Entities.pdb

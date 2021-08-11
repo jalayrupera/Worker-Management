@@ -1,0 +1,6 @@
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.CustomException\bin\Debug\WorkerManagement.CustomException.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.CustomException\bin\Debug\WorkerManagement.CustomException.pdb
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.CustomException\obj\Debug\WorkerManagement.CustomException.csproj.AssemblyReference.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.CustomException\obj\Debug\WorkerManagement.CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.CustomException\obj\Debug\WorkerManagement.CustomException.dll
+C:\Users\Jalay Rupera\source\repos\WorkerManagement\WorkerManagement.CustomException\obj\Debug\WorkerManagement.CustomException.pdb
